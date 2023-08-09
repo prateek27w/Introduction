@@ -1,2 +1,3 @@
 # Introduction
 About Me
+I'm an enthusiastic student eager to contribute towards team success through hard work, attention to detail and excellent organisational skills. I've worked with large datasets on several projects using SQL and Excel and visualised then using Data Visualisation tools like Power BI. Modified, fetch, cleaned, transformed the data using SQL queries and performed various operations. I've a clear understanding of problem solving and accuracy to details and training in different programming languages as per requirement. I'm very motivated to learn, grow and excel in the industry.
